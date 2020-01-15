@@ -1,4 +1,4 @@
-##PHP Helper Function
+## PHP Helper Function
 
 This is a PHP helper function useful to get date and time from database
 
